@@ -1,0 +1,9 @@
+{
+  "name": "mc-api",
+  "version": "1.0.0",
+  "description": "自托管 Minecraft 服务器查询 API",
+  "main": "api/mc.js",
+  "dependencies": {
+    "mcstatus": "^6.0.0"
+  }
+}
